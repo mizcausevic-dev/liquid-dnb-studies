@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ld01,Tidal Lines,pack-local equal-tempered pitch collection,D,174,4/4,480,32,61440,midi/ld01-tidal-lines/ld01-tidal-lines-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ld02,Blue Current,pack-local equal-tempered pitch collection,F,174,4/4,480,32,61440,midi/ld02-blue-current/ld02-blue-current-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ld03,Far Bank,pack-local equal-tempered pitch collection,G#,174,4/4,480,32,61440,midi/ld03-far-bank/ld03-far-bank-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ld04,Drift Return,pack-local equal-tempered pitch collection,D#,174,4/4,480,32,61440,midi/ld04-drift-return/ld04-drift-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

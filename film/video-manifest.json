@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/liquid-dnb-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "ae9ab548f06fd6d13e654dca040ddeaf02286ef63b026b79b872aae6311af802",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "18f08ce776106f3be01c8652d178dfab5bb9a5a369e163901e2a1cbbf443da43",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

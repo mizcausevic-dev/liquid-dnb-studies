@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+ld01,1,0,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,2,1920,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,3,3840,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,4,5760,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,5,7680,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,6,9600,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,7,11520,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,8,13440,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,9,15360,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,10,17280,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,11,19200,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,12,21120,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,13,23040,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,14,24960,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,15,26880,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,16,28800,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,17,30720,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,18,32640,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,19,34560,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,20,36480,D,pack-local equal-tempered pitch collection,50 53 57,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,21,38400,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,22,40320,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,23,42240,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,24,44160,D,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,25,46080,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,26,48000,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,27,49920,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,28,51840,D,pack-local equal-tempered pitch collection,55 58 62,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,29,53760,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,30,55680,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,31,57600,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld01,32,59520,D,pack-local equal-tempered pitch collection,57 60 64,Fast break-oriented movement with an open melodic line. Initial cell establishes the material.
+ld02,1,0,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,2,1920,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,3,3840,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,4,5760,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,5,7680,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,6,9600,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,7,11520,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,8,13440,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,9,15360,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,10,17280,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,11,19200,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,12,21120,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,13,23040,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,14,24960,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,15,26880,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,16,28800,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,17,30720,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,18,32640,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,19,34560,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,20,36480,F,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,21,38400,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,22,40320,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,23,42240,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,24,44160,F,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,25,46080,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,26,48000,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,27,49920,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,28,51840,F,pack-local equal-tempered pitch collection,60 63 67,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,29,53760,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,30,55680,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,31,57600,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld02,32,59520,F,pack-local equal-tempered pitch collection,53 56 60,Fast break-oriented movement with an open melodic line. Statement introduces a different contour.
+ld03,1,0,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,2,1920,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,3,3840,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,4,5760,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,5,7680,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,6,9600,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,7,11520,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,8,13440,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,9,15360,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,10,17280,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,11,19200,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,12,21120,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,13,23040,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,14,24960,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,15,26880,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,16,28800,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,17,30720,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,18,32640,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,19,34560,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,20,36480,G#,pack-local equal-tempered pitch collection,61 64 68,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,21,38400,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,22,40320,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,23,42240,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,24,44160,G#,pack-local equal-tempered pitch collection,63 66 70,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,25,46080,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,26,48000,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,27,49920,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,28,51840,G#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,29,53760,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,30,55680,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,31,57600,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld03,32,59520,G#,pack-local equal-tempered pitch collection,59 62 66,Fast break-oriented movement with an open melodic line. Contrast moves the accent map.
+ld04,1,0,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,2,1920,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,3,3840,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,4,5760,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,5,7680,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,6,9600,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,7,11520,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,8,13440,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,9,15360,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,10,17280,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,11,19200,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,12,21120,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,13,23040,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,14,24960,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,15,26880,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,16,28800,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,17,30720,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,18,32640,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,19,34560,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,20,36480,D#,pack-local equal-tempered pitch collection,58 61 65,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,21,38400,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,22,40320,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,23,42240,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,24,44160,D#,pack-local equal-tempered pitch collection,51 54 58,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,25,46080,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,26,48000,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,27,49920,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,28,51840,D#,pack-local equal-tempered pitch collection,54 57 61,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,29,53760,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,30,55680,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,31,57600,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
+ld04,32,59520,D#,pack-local equal-tempered pitch collection,56 59 63,Fast break-oriented movement with an open melodic line. Return keeps the identity while changing one placement.
