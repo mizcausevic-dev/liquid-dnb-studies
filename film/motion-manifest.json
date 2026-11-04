@@ -1,0 +1,26 @@
+{
+  "title": "Liquid DnB-Inspired",
+  "study": "ld01",
+  "bpm": 174,
+  "source_audio": "preview/liquid-dnb-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "ae9ab548f06fd6d13e654dca040ddeaf02286ef63b026b79b872aae6311af802",
+  "source_midi": "midi/ld01-tidal-lines/ld01-tidal-lines-combined.mid",
+  "source_midi_sha256": "5e49dcecdb8d4171b2d02b1978c510d95f42828c52c880bebd63eb7aaaffffec",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "700ef5aad33ff9c3a19f9197f00357b180e9aeabf6dd86ce35abe0b959c5bef8",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "b48231a4a6e3fdcf00f8b78c898aa9528ebc228a6351855282bc9a6517f3b1c2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "87b52d8ae94016cc7d89288cde4b5b47dff22c1e3603dd66a77171281b9719af",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
